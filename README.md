@@ -43,5 +43,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled14ramadan&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=khaled14ramadan&style=for-the-badge">
-<!--     <img src="https://komarev.com/ghpvc/?username=khaled14ramadan&style=for-the-badge"> -->
+    <img src="https://komarev.com/ghpvc/?username=khaled14ramadan&style=for-the-badge">
 </a>
